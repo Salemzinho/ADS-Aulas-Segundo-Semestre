@@ -25,14 +25,11 @@ header{
 }
 
 header h1{
-<<<<<<< HEAD
 	font-family: Candara;
 	text-align: center;
-=======
 	font-family: Trebuchet MS, sans-serif;
 	text-align: center;
 	animation: opacityNome 2s;
->>>>>>> e50fa53 (Beta 1.1)
 }
 
 .card{
@@ -44,8 +41,6 @@ header h1{
 	padding: 0.1px;
 	margin-left: 10px;
 	margin-right: 10px;
-<<<<<<< HEAD
-=======
 	animation: inicio 1s;
 	
 	-webkit-transition: width .2s;
@@ -54,17 +49,13 @@ header h1{
 .card:hover{
 	width: 500px;
 	transition: .2s;
->>>>>>> e50fa53 (Beta 1.1)
 }
 
 .card h3{
 	margin-top: 40px;
 	font-size: 14px;
-<<<<<<< HEAD
 	font-family: Century Gothic;
-=======
 	font-family: Trebuchet MS, sans-serif;
->>>>>>> e50fa53 (Beta 1.1)
 }
 
 
@@ -84,28 +75,22 @@ header h1{
 	height: 40px;
 	background-color:  #f5b352;
 	border-radius: 5px;
-<<<<<<< HEAD
 	margin-top: 50px;
 	color: white;
 	border-style: none;
-=======
 	border-style: none;
 	margin-top: 50px;
 	color: white;
->>>>>>> e50fa53 (Beta 1.1)
 	font-weight: bold;
 	font-family: Century Gothic;
 }
 
 .card button:hover{
 	transition: .5s;
-<<<<<<< HEAD
 	background-color: #e8a12e;
-=======
 	border: solid #f5b352 1px;
 	background-color:rgba(0, 0, 0, 0.3);
 	color: #f5b352;
->>>>>>> e50fa53 (Beta 1.1)
 }
 
 footer{
@@ -121,8 +106,6 @@ footer p{
 	margin-bottom: -10px;
 	margin-left: 30px;
 }
-<<<<<<< HEAD
-=======
 
 
 /*----------Keyframes----------*/
@@ -145,4 +128,4 @@ footer p{
 		opacity: 0.2s;
 	}
 }
->>>>>>> e50fa53 (Beta 1.1)
+
