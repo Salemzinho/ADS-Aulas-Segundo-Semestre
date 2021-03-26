@@ -129,16 +129,17 @@ footer p{
 	}
 }
 
-@media (max-width: 767px){
+@media (max-width: 768px){
 	.flexbox{
 		flex-direction: column;
-		margin-left: 15%;
 	}
 
 	.card{
+		animation: none;
+		margin: 0 auto;
 		margin-bottom: 20px;
 	}
-	
+
 	.card:hover{
 		width: 300px;
 	}
@@ -151,4 +152,3 @@ footer p{
 		height: 70px;
 	}
 }
-
