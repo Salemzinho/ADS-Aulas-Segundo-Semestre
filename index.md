@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
 
-You can use the [editor on GitHub](https://github.com/Salemzinho/ADS-Aulas-Segundo-Semestre/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+</head>
 
-### Markdown
+<body>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+	<header>
+		<h1> ADS - Aulas do 2º Semestre</h1>
+	</header>
 
-```markdown
-Syntax highlighted code block
+	<div class="flexbox">
+		<div class="card"> 
+			<h3>Projeto Integrador</h3>
+			<img src="img/folder.png">
+			<p>Segunda-Feira</p>
+			<a href="https://ca.bbcollab.com/guest/bd61dLhhajYKeqri9VW5h1oUHKECMRvJjTm5"><button>Ir para a Aula</button></a>	
+		</div>
 
-# Header 1
-## Header 2
-### Header 3
+		<div class="card"> 
+			<h3>Algoritmos e Programação II</h3>
+			<img src="img/folder.png">
+			<p>Terça-Feira</p>
+			<a href="https://ca.bbcollab.com/guest/f293f3357f5d4378b6c33c33439c1322 "><button>Ir para a Aula</button></a>
+		</div>
 
-- Bulleted
-- List
+		<div class="card"> 
+			<h3>Banco de Dados</h3>
+			<img src="img/folder.png">
+			<p>Quarta-Feira</p>
+			<button>Ir para a Aula</button>
+		</div>
 
-1. Numbered
-2. List
+		<div class="card"> 
+			<h3>Programação Web</h3>
+			<img src="img/folder.png">
+			<p>Quinta-Feira</p>
+			<a href="https://ca.bbcollab.com/collab/ui/session/guest/0f065e1f25c24fe5b8a74dc829af2a4e"><button>Ir para a Aula</button></a>
+		</div>
 
-**Bold** and _Italic_ and `Code` text
+		<div class="card"> 
+			<h3>Análise e Desenvolvimento</h3>
+			<img src="img/folder.png">
+			<p>Sexta-Feira</p>
+			<button>Ir para a Aula</button>
+		</div>
+	</div>
 
-[Link](url) and ![Image](src)
-```
+	<footer>
+		<p>Este projeto Opensource foi desenvolvido por <i>Érico</i> e <i>Luan Costa de Oliveira.</i></p>
+		<p><b><i>Beta 1.2</i></b></p>
+	</footer>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Salemzinho/ADS-Aulas-Segundo-Semestre/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
