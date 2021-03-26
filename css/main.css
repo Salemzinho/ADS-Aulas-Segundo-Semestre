@@ -137,7 +137,10 @@ footer p{
 
 	.card{
 		margin-bottom: 20px;
-		animation: none;
+	}
+	
+	.card:hover{
+		width: 300px;
 	}
 
 	header h1{
