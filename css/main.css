@@ -129,3 +129,22 @@ footer p{
 	}
 }
 
+@media (max-width: 500px){
+	.flexbox{
+		flex-direction: column;
+		margin-left: 15%;
+	}
+
+	.card{
+		margin-bottom: 20px;
+	}
+
+	header h1{
+		font-size: 26px;
+	}
+
+	header{
+		height: 70px;
+	}
+}
+
