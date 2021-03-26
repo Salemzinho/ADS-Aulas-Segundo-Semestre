@@ -129,7 +129,7 @@ footer p{
 	}
 }
 
-@media (max-width: 500px){
+@media (max-width: 767px){
 	.flexbox{
 		flex-direction: column;
 		margin-left: 15%;
@@ -137,6 +137,7 @@ footer p{
 
 	.card{
 		margin-bottom: 20px;
+		animation: none;
 	}
 
 	header h1{
