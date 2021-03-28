@@ -53,7 +53,6 @@
 
 	<footer>
 		<p>Este projeto Opensource foi desenvolvido por <i>Érico</i> e <i>Luan Costa de Oliveira.</i></p>
-		<p><b><i>Beta 1.2</i></b></p>
 	</footer>
 
 </body>
